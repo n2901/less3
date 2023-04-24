@@ -1,5 +1,3 @@
 print('Hello world')
-добавить
-ещё 
-несколько
-строк
+print('Hello world')
+
